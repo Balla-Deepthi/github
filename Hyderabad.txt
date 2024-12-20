@@ -1,2 +1,6 @@
 Hyderabad is a beautiful city
+<<<<<<< HEAD
 hyderabda has metro
+=======
+Chennai has a beach
+>>>>>>> 3d688d734cfe596903fa5c205e6d40270cd0c458
