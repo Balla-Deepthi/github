@@ -1,3 +1,11 @@
 Hyderabad is a beautiful city
+<<<<<<< HEAD
 Chennai has a beach
 Chennai has many tousrist places
+=======
+<<<<<<< HEAD
+hyderabda has metro
+=======
+Chennai has a beach
+>>>>>>> 3d688d734cfe596903fa5c205e6d40270cd0c458
+>>>>>>> fd5e6b9be997ce600e938e823ed26bb495476c1b
